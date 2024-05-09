@@ -33,4 +33,4 @@ This Java application allows users to input information about individuals such a
 - The program assumes valid input for simplicity. Ensure that input follows the expected format to avoid errors.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
