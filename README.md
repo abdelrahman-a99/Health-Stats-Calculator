@@ -6,7 +6,7 @@ This Java application allows users to input information about individuals such a
 ## Usage
 1. **Clone the Repository**: Clone this repository to your local machine using the command:
     ```
-    git clone <repository-url>
+    git clone https://github.com/abdelrahman-a99/Health-Stats-Calculator.git
     ```
 
 2. **Compile**: Compile the Java files using any Java compiler. You can use an IDE like IntelliJ IDEA, Eclipse, or compile manually using the command line.
